@@ -1,0 +1,100 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+    int nums[] = {1, 2, 3};
+    int numsSize = 3;
+
+    int returnSize;
+    int* returnColumnSizes;
+
+    int** result = permute(nums, numsSize,
+                           &returnSize,
+                           &returnColumnSizes);
+
+    printf("Permutations:\n");
+
+    for (int i = 0; i < returnSize; i++) {
+        printf("[");
+        for (int j = 0; j < returnColumnSizes[i]; j++) {
+            printf("%d", result[i][j]);
+            if (j < returnColumnSizes[i] - 1)
+                printf(", ");
+        }
+        printf("]\n");
+    }
+
+    for (int i = 0; i < returnSize; i++)
+        free(result[i]);
+
+    free(result);
+    free(returnColumnSizes);
+
+    return 0;
+}
+
+void backtrack(int* nums, int numsSize,
+               int* used,
+               int* current,
+               int depth,
+               int*** result,
+               int* returnSize,
+               int* capacity) {
+
+    if (depth == numsSize) {
+        if (*returnSize >= *capacity) {
+            *capacity *= 2;
+            *result = realloc(*result, (*capacity) * sizeof(int*));
+        }
+
+        (*result)[*returnSize] = malloc(numsSize * sizeof(int));
+
+        for (int i = 0; i < numsSize; i++) {
+            (*result)[*returnSize][i] = current[i];
+        }
+
+        (*returnSize)++;
+        return;
+    }
+
+    for (int i = 0; i < numsSize; i++) {
+        if (!used[i]) {
+            used[i] = 1;
+            current[depth] = nums[i];
+
+            backtrack(nums, numsSize, used, current,
+                      depth + 1, result,
+                      returnSize, capacity);
+
+            used[i] = 0;
+        }
+    }
+}
+
+int** permute(int* nums, int numsSize,
+              int* returnSize,
+              int** returnColumnSizes) {
+
+    *returnSize = 0;
+
+    int capacity = 100;
+    int** result = malloc(capacity * sizeof(int*));
+
+    int* used = calloc(numsSize, sizeof(int));
+    int* current = malloc(numsSize * sizeof(int));
+
+    backtrack(nums, numsSize, used, current, 0,
+              &result, returnSize, &capacity);
+
+    *returnColumnSizes =
+        malloc((*returnSize) * sizeof(int));
+
+    for (int i = 0; i < *returnSize; i++) {
+        (*returnColumnSizes)[i] = numsSize;
+    }
+
+    free(used);
+    free(current);
+
+    return result;
+}
