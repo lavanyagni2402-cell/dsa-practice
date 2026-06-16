@@ -16,7 +16,7 @@ int main() {
         printf("%d ", nums[i]);
     }
 
-    return 0;
+    return 0; //u
 }
 void reverse(int* nums, int start, int end) {
     while (start < end) {
