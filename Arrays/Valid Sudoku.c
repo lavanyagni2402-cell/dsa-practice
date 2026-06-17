@@ -3,7 +3,7 @@
 
 bool isValidSudoku(char** board, int boardSize, int* boardColSize);
 
-int main() {
+int main() { ///main
 
     char row0[] = {'5','3','.','.','7','.','.','.','.'};
     char row1[] = {'6','.','.','1','9','5','.','.','.'};
@@ -16,7 +16,7 @@ int main() {
     char row8[] = {'.','.','.','.','8','.','.','7','9'};
 
     char* board[] = {
-        row0,row1,row2,row3,row4, ///
+        row0,row1,row2,row3,row4, 
         row5,row6,row7,row8
     };
 
