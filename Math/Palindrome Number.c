@@ -24,5 +24,5 @@ int main() {
     else
         printf("false\n");
 
-    return 0;////
+    return 0;
 }
