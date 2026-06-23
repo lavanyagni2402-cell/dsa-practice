@@ -1,3 +1,19 @@
+/*LeetCode 149. Max Points on a Line
+Idea
+
+For each point i:
+
+Calculate the slope between i and every other point.
+Count how many points have the same slope with respect to i.
+The largest count + 1 (for point i) is the answer through that point.
+Take the maximum over all points.
+
+To avoid floating-point precision issues, store slopes as reduced fractions:
+
+dy / dx
+
+Reduce using GCD.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
