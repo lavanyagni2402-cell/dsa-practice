@@ -1,3 +1,13 @@
+/*LeetCode 89- Gray Code
+
+A Gray code sequence of n bits has 2^n integers where adjacent values differ by exactly one bit.
+
+Key Formula- For a number i, its Gray code is:
+
+gray=i⊕(i>>1)
+
+where ⊕ is XOR*/
+
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
