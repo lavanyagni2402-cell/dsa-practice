@@ -1,3 +1,25 @@
+/* LeetCode 189. Rotate Array
+
+Rotate the array to the right by k steps.
+
+Example:
+
+nums = [1,2,3,4,5,6,7]
+k = 3
+
+Output:
+[5,6,7,1,2,3,4]
+Optimal Approach (Reverse)
+Reverse the entire array.
+Reverse the first k elements.
+Reverse the remaining elements.
+1 2 3 4 5 6 7
+↓ reverse all
+7 6 5 4 3 2 1
+↓ reverse first k=3
+5 6 7 4 3 2 1
+↓ reverse rest
+5 6 7 1 2 3 4 */
 #include <stdio.h>
 
 void reverse(int* nums, int left, int right) {
