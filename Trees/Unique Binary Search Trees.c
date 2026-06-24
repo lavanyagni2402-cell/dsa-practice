@@ -1,3 +1,15 @@
+/* LeetCode 96. Unique Binary Search Trees
+
+This is a classic Catalan Number problem.
+
+Let dp[i] = number of unique BSTs that can be formed using i nodes.
+
+For each root j:
+
+left subtree  = j - 1 nodes
+right subtree = i - j nodes
+
+dp[i] += dp[j-1] * dp[i-j] */
 #include <stdio.h>
 
 int numTrees(int n) {
