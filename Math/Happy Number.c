@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdbool.h>
 
 int squareSum(int n) {
@@ -22,4 +23,15 @@ bool isHappy(int n) {
     } while (slow != fast);
 
     return slow == 1;
+}
+
+int main() {
+    int n = 19;
+
+    if (isHappy(n))
+        printf("Happy Number\n");
+    else
+        printf("Not Happy Number\n");
+
+    return 0;
 }
