@@ -1,3 +1,16 @@
+/* LeetCode 202. Happy Number
+
+A number is happy if repeatedly replacing it with the sum of the squares of its digits eventually reaches 1.
+
+Example:
+
+19
+
+1² + 9² = 82
+8² + 2² = 68
+6² + 8² = 100
+1² + 0² + 0² = 1 */
+
 #include <stdio.h>
 #include <stdbool.h>
 
