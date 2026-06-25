@@ -1,3 +1,25 @@
+/* LeetCode 227- Basic Calculator II
+
+You need to evaluate an expression containing:
+
++
+-
+*
+/
+Spaces
+
+No parentheses.
+
+Idea
+
+Use a stack.
+
+For + → push number.
+For - → push negative number.
+For * → pop top, multiply, push result.
+For / → pop top, divide, push result.
+
+At the end, sum everything in the stack.*/
 #include <ctype.h>
 #include <stdio.h>
 
