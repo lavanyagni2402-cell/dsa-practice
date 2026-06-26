@@ -1,3 +1,23 @@
+/* LeetCode 6. Zigzag Conversion
+Idea
+
+Write the characters row by row in a zigzag pattern, then concatenate the rows.
+
+Example:
+
+Input:
+s = "PAYPALISHIRING"
+numRows = 3
+
+Pattern:
+
+P   A   H   N
+A P L S I I G
+Y   I   R
+
+Output:
+PAHNAPLSIIGYIR */
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
