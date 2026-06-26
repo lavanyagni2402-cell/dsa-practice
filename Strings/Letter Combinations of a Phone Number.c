@@ -1,3 +1,25 @@
+/* LeetCode 17- Letter Combinations of a Phone Number
+Idea (Backtracking)
+
+Each digit maps to several letters:
+
+2 -> abc
+3 -> def
+4 -> ghi
+5 -> jkl
+6 -> mno
+7 -> pqrs
+8 -> tuv
+9 -> wxyz
+
+For every digit:
+
+Pick one letter.
+Move to the next digit.
+When all digits are processed, store the formed string.
+
+This is a classic backtracking (DFS) problem.*/
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
