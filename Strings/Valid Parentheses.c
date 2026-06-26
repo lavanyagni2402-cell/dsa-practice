@@ -1,3 +1,11 @@
+/* LeetCode 20- Valid Parentheses
+Idea (Stack)
+When you encounter an opening bracket ((, {, [), push it onto the stack.
+When you encounter a closing bracket (), }, ]):
+If the stack is empty → invalid.
+Otherwise, pop the top and check if it matches the corresponding opening bracket.
+At the end, the stack should be empty. */
+
 #include <stdbool.h>
 #include <string.h>
 #include <stdio.h>
