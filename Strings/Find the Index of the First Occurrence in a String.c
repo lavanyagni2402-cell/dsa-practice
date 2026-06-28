@@ -1,3 +1,12 @@
+/* LeetCode 28. Find the Index of the First Occurrence in a String
+
+Given two strings:
+
+haystack → the main string
+needle → the substring to find
+
+Return the index of the first occurrence of needle in haystack. If it's not found, return -1 */
+
 #include <string.h>
 #include <stdio.h>
 
