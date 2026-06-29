@@ -1,3 +1,23 @@
+/* For LeetCode 44. Wildcard Matching, the optimal approach is Dynamic Programming.
+
+Idea
+? matches exactly one character.
+* matches any sequence of characters (including empty).
+
+Let dp[i][j] = whether s[0...i-1] matches p[0...j-1].
+
+Transitions
+
+If characters match or pattern has ?:
+
+dp[i][j] = dp[i-1][j-1]
+
+If pattern has *:
+
+dp[i][j] = dp[i][j-1] || dp[i-1][j]
+dp[i][j-1] → * matches empty string.
+dp[i-1][j] → * matches one more character. */
+
 #include <stdbool.h>
 #include <string.h>
 #include <stdlib.h>
