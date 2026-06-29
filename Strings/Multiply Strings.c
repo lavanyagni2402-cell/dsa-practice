@@ -1,3 +1,38 @@
+/* LeetCode 43. Multiply Strings
+
+Given two non-negative integers as strings (num1 and num2), return their product as a string.
+
+Do not convert the strings to integers directly.
+
+Example
+Input:
+num1 = "123"
+num2 = "456"
+
+Output:
+"56088"
+Idea (Grade School Multiplication)
+
+Multiply exactly like you do by hand.
+
+For each digit:
+
+Multiply one digit from num1 with one digit from num2.
+Add the result to the correct position in an array.
+Handle carries.
+Convert the array to a string. 
+Example
+      1 2 3
+×     4 5 6
+-------------
+        738
+      615
+    492
+-------------
+    56088
+
+Instead of writing on paper, we store the digits in an array.*/
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
