@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int maxArea(int* height, int heightSize) {
     int left = 0, right = heightSize - 1;
     int max = 0;
@@ -16,4 +18,13 @@ int maxArea(int* height, int heightSize) {
     }
 
     return max;
+}
+
+int main() {
+    int height[] = {1,8,6,2,5,4,8,3,7};
+    int n = sizeof(height) / sizeof(height[0]);
+
+    printf("%d\n", maxArea(height, n));
+
+    return 0;
 }
