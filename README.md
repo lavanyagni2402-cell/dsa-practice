@@ -27,5 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0099-recover-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
