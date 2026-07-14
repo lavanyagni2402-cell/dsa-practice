@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
