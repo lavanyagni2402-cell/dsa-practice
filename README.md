@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
