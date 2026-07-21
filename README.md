@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -94,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
