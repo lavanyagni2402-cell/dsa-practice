@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
