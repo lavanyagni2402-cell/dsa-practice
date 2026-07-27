@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0099-recover-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0278-first-bad-version) |
 ## Array
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
