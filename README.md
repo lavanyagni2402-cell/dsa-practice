@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
