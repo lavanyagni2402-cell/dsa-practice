@@ -5,7 +5,6 @@ int* validSequence(char* word1, char* word2, int* returnSize) {
     int n1 = strlen(word1);
     int n2 = strlen(word2);
 
-    // match_len[i] = longest suffix of word2 matchable as a subsequence of word1[i:]
     int* match_len = (int*)malloc((n1 + 1) * sizeof(int));
     int p = n2;
     match_len[n1] = n2 - p; // = 0
