@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
