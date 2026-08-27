@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,8 +150,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
