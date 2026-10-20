@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Recursion
 |  |
@@ -176,4 +179,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3903-smallest-stable-index-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
