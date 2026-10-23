@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0059-spiral-matrix-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0016-3sum-closest) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
