@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
