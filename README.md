@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0101-symmetric-tree) |
+| [1267-count-servers-that-communicate](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
 | [2747-count-zero-request-servers](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
