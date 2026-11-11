@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1406-stone-game-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/1406-stone-game-iii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Minimax
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
