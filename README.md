@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lavanyagni2402-cell/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
